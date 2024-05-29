@@ -17,37 +17,27 @@ body {
 
 .col-outside-1 {
   position: absolute;
-  transform: translateX(-290px);
-  width: 367.5px;
-  height: 397.5px;
+  transform: translateX(-287px);
 }
 
 .col-outside-2 {
   position: absolute;
   transform: translateY(-192px) translateX(170px);
-  width: 753px;
-  height: 127.5px;
 }
 
 .col-outside-3 {
   position: absolute;
-  transform: translateY(-5px) translateX(635px);
-  width: 377.5px;
-  height: 394px;
+  transform: translateY(-6px) translateX(632px);
 }
 
 .col-outside-4 {
   position: absolute;
-  transform: translateY(230px) translateX(443px);
-  width: 529.5px;
-  height: 180px;
+  transform: translateY(226px) translateX(441px);
 }
 
 .col-outside-5 {
   position: absolute;
-  transform: translateY(235px) translateX(-89px);
-  width: 514px;
-  height: 172.5px;
+  transform: translateY(230px) translateX(-85px);
 }
 
 .row-inside {
@@ -56,38 +46,142 @@ body {
   justify-content: center;
   align-items: center;
 }
-  
+
 .col-inside-1-7 {
-  transform: translateY(326px) translateX(375px);
-  width: 221px;
-  height: 102px;
+  transform: translateY(28px) translateX(304px);
 }
 
 .col-inside-1-9 {
-  width: 367.5px;
-  height: 397.5px;
-  transform: translateY(297px) translateX(335px);
+  transform: translateY(-5px) translateX(265px);
 }
 
 .col-inside-1-11 {
-  width: 367.5px;
-  height: 397.5px;
-  transform: translateY(42px) translateX(-78px);
+  transform: translateY(-15px) translateX(263px);
 }
 
 .col-inside-2-3 {
-width: 210.5px;
-height: 99px;
-transform: translateY(-25px) translateX(140px);
+  transform: translateY(-20px) translateX(217px);
 }
 
 .col-inside-2-4 {
-width: 141.5px;
-height: 77.5px;
-transform: translateY(-128px) translateX(335px);
+  transform: translateY(-128px) translateX(412px);
 }
 
 .col-inside-2-5 {
-width: 196.5px;
-height: 95.5px;
+  transform: translateY(-207px) translateX(544px);
+}
+
+.col-inside-3-8 {
+  transform: translateY(23px) translateX(443px);
+}
+
+.col-inside-3-10 {
+  transform: translateY(-9px) translateX(516px);
+}
+.col-inside-3-13 {
+  transform: translateY(-18px) translateX(517px);
+}
+
+.col-inside-4-12 {
+  transform: translateY(228px) translateX(213px);
+}
+
+.col-inside-4-20 {
+    transform: translateY(160px) translateX(138px);
+}
+
+.col-inside-4-19 {
+    transform: translateY(82px) translateX(40px);
+}
+
+.col-inside-5-14 {
+    transform: translateY(230px) translateX(-525px);
+}
+
+.col-inside-5-17 {
+     transform: translateY(85px) translateX(-290px);
+}
+
+.col-inside-5-16 {
+    transform: translateY(162px) translateX(-413px);
+}
+
+.col-outside-1:hover {
+    transform: translateY(-100px) translateX(-287px);
+}
+
+.col-outside-2:hover {
+    transform: translateY(-300px) translateX(150px);
+}
+
+.col-outside-3:hover {
+ transform: translateY(-106px) translateX(632px);
+}
+
+.col-outside-4:hover {
+transform: translateY(126px) translateX(441px);
+}
+
+.col-outside-5:hover {
+transform: translateY(130px) translateX(-85px);
+}
+
+.col-inside-1-7:hover {
+transform: translateY(-28px) translateX(304px);
+}
+
+.col-inside-1-9:hover {
+    transform: translateY(-55px) translateX(265px);
+}
+
+.col-inside-1-11:hover {
+transform: translateY(-65px) translateX(263px);
+}
+
+.col-inside-2-3:hover {
+transform: translateY(-70px) translateX(217px);
+}
+
+.col-inside-2-4:hover {
+transform: translateY(-178px) translateX(412px);
+} 
+
+.col-inside-2-5:hover {
+transform: translateY(-247px) translateX(544px);
+}
+
+.col-inside-3-8:hover {
+transform: translateY(-33px) translateX(443px);
+}
+
+.col-inside-3-10:hover {
+transform: translateY(-59px) translateX(516px);
+}
+
+.col-inside-3-13:hover {
+transform: translateY(-68px) translateX(517px);
+}
+
+.col-inside-4-12:hover {
+transform: translateY(178px) translateX(213px);
+}
+
+.col-inside-4-20:hover {
+transform: translateY(100px) translateX(138px);
+}
+
+.col-inside-4-19:hover {
+transform: translateY(22px) translateX(40px);
+}
+
+.col-inside-5-14:hover {
+transform: translateY(170px) translateX(-525px);
+}
+
+.col-inside-5-17:hover {
+transform: translateY(15px) translateX(-290px);
+}
+
+.col-inside-5-16:hover {
+transform: translateY(102px) translateX(-413px);
 }
