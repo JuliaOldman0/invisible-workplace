@@ -49,139 +49,178 @@ body {
 
 .col-inside-1-7 {
   transform: translateY(28px) translateX(304px);
+  transition: 0.5s;
 }
 
 .col-inside-1-9 {
   transform: translateY(-5px) translateX(265px);
+  transition: 0.5s;
 }
 
 .col-inside-1-11 {
   transform: translateY(-15px) translateX(263px);
+  transition: 0.5s;
 }
 
 .col-inside-2-3 {
   transform: translateY(-20px) translateX(217px);
+  transition: 0.5s;
 }
 
 .col-inside-2-4 {
   transform: translateY(-128px) translateX(412px);
+  transition: 0.5s;
 }
 
 .col-inside-2-5 {
   transform: translateY(-207px) translateX(544px);
+  transition: 0.5s;
 }
 
 .col-inside-3-8 {
   transform: translateY(23px) translateX(443px);
+  transition: 0.5s;
 }
 
 .col-inside-3-10 {
   transform: translateY(-9px) translateX(516px);
+  transition: 0.5s;
 }
 .col-inside-3-13 {
   transform: translateY(-18px) translateX(517px);
+  transition: 0.5s;
 }
 
 .col-inside-4-12 {
   transform: translateY(228px) translateX(213px);
+  transition: 0.5s;
 }
 
 .col-inside-4-20 {
     transform: translateY(160px) translateX(138px);
+    transition: 0.5s;
 }
 
 .col-inside-4-19 {
     transform: translateY(82px) translateX(40px);
+    transition: 0.5s;
 }
 
 .col-inside-5-14 {
     transform: translateY(230px) translateX(-525px);
+    transition: 0.5s;
 }
 
 .col-inside-5-17 {
      transform: translateY(85px) translateX(-290px);
+     transition: 0.5s;
 }
 
 .col-inside-5-16 {
     transform: translateY(162px) translateX(-413px);
+    transition: 0.5s;
 }
 
 .col-outside-1:hover {
     transform: translateY(-100px) translateX(-287px);
+    transition: 0.5s;
 }
 
 .col-outside-2:hover {
-    transform: translateY(-300px) translateX(150px);
+    transform: translateY(-250px) translateX(170px);
+    transition: 0.5s;
 }
 
 .col-outside-3:hover {
- transform: translateY(-106px) translateX(632px);
+ transform: translateY(-86px) translateX(632px);
+ transition: 0.5s;
 }
 
 .col-outside-4:hover {
 transform: translateY(126px) translateX(441px);
+transition: 0.5s;
 }
 
 .col-outside-5:hover {
 transform: translateY(130px) translateX(-85px);
+transition: 0.5s;
 }
 
 .col-inside-1-7:hover {
 transform: translateY(-28px) translateX(304px);
+transition: 0.5s;
 }
 
 .col-inside-1-9:hover {
     transform: translateY(-55px) translateX(265px);
+    transition: 0.5s;
 }
 
 .col-inside-1-11:hover {
 transform: translateY(-65px) translateX(263px);
+transition: 0.5s;
 }
 
 .col-inside-2-3:hover {
 transform: translateY(-70px) translateX(217px);
+transition: 0.5s;
 }
 
 .col-inside-2-4:hover {
 transform: translateY(-178px) translateX(412px);
+transition: 0.5s;
 } 
 
 .col-inside-2-5:hover {
 transform: translateY(-247px) translateX(544px);
+transition: 0.5s;
 }
 
 .col-inside-3-8:hover {
 transform: translateY(-33px) translateX(443px);
+transition: 0.5s;
 }
 
 .col-inside-3-10:hover {
 transform: translateY(-59px) translateX(516px);
+transition: 0.5s;
 }
 
 .col-inside-3-13:hover {
 transform: translateY(-68px) translateX(517px);
+transition: 0.5s;
 }
 
 .col-inside-4-12:hover {
 transform: translateY(178px) translateX(213px);
+transition: 0.5s;
 }
 
 .col-inside-4-20:hover {
 transform: translateY(100px) translateX(138px);
+transition: 0.5s;
 }
 
 .col-inside-4-19:hover {
 transform: translateY(22px) translateX(40px);
+transition: 0.5s;
 }
 
 .col-inside-5-14:hover {
 transform: translateY(170px) translateX(-525px);
+transition: 0.5s;
 }
 
 .col-inside-5-17:hover {
 transform: translateY(15px) translateX(-290px);
+transition: 0.5s;
 }
 
 .col-inside-5-16:hover {
 transform: translateY(102px) translateX(-413px);
+transition: 0.5s;
+}
+
+#selected-img:hover {
+    content: url('images/sub-01.png');
 }
